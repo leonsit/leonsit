@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leonsit
 - 👀 I’m interested in being a more productive human being.
 - 🌱 I’m currently learning anything and everything I can.
-- 💞️ I’m looking to collaborate on nothing specific for now.
+- 💞️ I’m not looking to collaborate on anything specific for now.
 - 📫 How to reach me:
 - @politicsmaps on Twitter
 
