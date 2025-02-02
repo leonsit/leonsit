@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @leonsit
-- 👀 I’m interested in being a more productive human being.
-- 🌱 I’m currently learning anything and everything I can.
-- 💞️ I’m not looking to collaborate on anything specific for now.
-- 📫 How to reach me:
-- @politicsmaps on Twitter
+basic, basic, basic coding. I like the field; it's fun and many great things can be done.
 
 <!---
 leonsit/leonsit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
